@@ -2452,9 +2452,9 @@ function _strip_controlchar($string){
 		/* Plugin API calls, for installation, configuration and setup                        */
 	
 		function getName()   	  { 		return 'TrackBack';   }
-		function getAuthor() 	  { 		return 'rakaz + nakahara21 + hsur'; }
+		function getAuthor() 	  { 		return 'rakaz + nakahara21 + hsur + yuuAn'; }
 		function getURL()    	  { 		return 'http://blog.cles.jp/np_cles/category/31/subcatid/3'; }
-		function getVersion()	  { 		return '2.0.3 jp13'; }
+		function getVersion()	  { 		return '2.0.3 jp13+1'; }
 		function getDescription() { 		return '[$Revision: 1.311 $]<br />' . _TB_DESCRIPTION; }
 	
 //modify start+++++++++
